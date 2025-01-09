@@ -20,7 +20,7 @@ bindsym ctrl+space $exec "rofi -modi drun,run -show drun"
 bindsym Print $exec xfce4-screenshooter
 bindsym $mod+b $exec zen-browser
 bindsym $mod+ctrl+e $exec thunar
-bindsym $mod+canc $exec xfce4-session-logout
+bindsym $mod+Delete $exec xfce4-session-logout
 
 bindsym $mod+j focus left
 bindsym $mod+k focus down
